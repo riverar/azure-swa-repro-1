@@ -1,0 +1,8 @@
+{
+  "name": "custom-module",
+  "version": "0.0.1",
+  "main": "hello.js",
+  "scripts": {
+    "install": "echo \"custom-module install script executed.\" && exit 0"
+  }
+}
